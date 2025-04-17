@@ -1,0 +1,11 @@
+[
+	{
+		"type": "delete",
+		"pattern": "o"
+	},
+	{
+		"type": "replace",
+		"pattern": "h.*?w",
+		"replace": "foo"
+	}
+]
